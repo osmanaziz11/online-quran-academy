@@ -1,0 +1,1 @@
+<?php  header("Location: http://localhost:81/habib-e-pak/index.php");?>
